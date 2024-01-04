@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on [twoseed.github.io](twoseed.github.io)
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently expanding my knowledge on C
 - 🤔 I’m looking for help with Javascript and C
 - 💬 Ask me about Javascript and C
 - 📫 How to reach me: mythacker.personal@proton.me
